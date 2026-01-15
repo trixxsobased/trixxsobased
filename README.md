@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.jpg" width="300" alt="header"/>
+<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/header.jpg" width="300" alt="header"/>
 
 # `T R I X X S O B A S E D`
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
 
 <br/>
 
@@ -22,18 +22,14 @@
 status: haunted | learning: C/C++, JS, PHP | vibe: permanently in the woods
 ```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=trixxsobased&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true&border_radius=0&hide_title=true&hide_rank=true" alt="stats"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixxsobased&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=0&hide_title=true" alt="langs"/>
-</a>
+<!-- STATS - Using Streak Stats instead which is often more reliable -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=trixxsobased&theme=blood-dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000" alt="streak" height="150" />
 
 </div>
 
 <br/>
 
-<img src="assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
 
 <br/>
 
@@ -59,7 +55,7 @@ status: haunted | learning: C/C++, JS, PHP | vibe: permanently in the woods
 
 <br/>
 
-<img src="assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
 
 <br/>
 
