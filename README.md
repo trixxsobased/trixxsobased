@@ -35,7 +35,7 @@
 
 <!-- BARBED WIRE DIVIDER -->
 <div align="center">
-<img src="https://www.pngall.com/wp-content/uploads/2/Barbed-Wire-PNG-HD-Image.png" width="100%" height="10"/>
+<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="10"/>
 </div>
 
 ---
@@ -98,7 +98,7 @@
 
 <!-- BARBED WIRE DIVIDER -->
 <div align="center">
-<img src="https://www.pngall.com/wp-content/uploads/2/Barbed-Wire-PNG-HD-Image.png" width="100%" height="10"/>
+<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="10"/>
 </div>
 
 ---
@@ -175,7 +175,7 @@ public:
 
 <!-- BARBED WIRE DIVIDER -->
 <div align="center">
-<img src="https://www.pngall.com/wp-content/uploads/2/Barbed-Wire-PNG-HD-Image.png" width="100%" height="10"/>
+<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="10"/>
 </div>
 
 ---

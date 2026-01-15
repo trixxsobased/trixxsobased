@@ -1,33 +1,33 @@
-name: Generate Blood Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *" 
   workflow_dispatch:
   push:
     branches:
-      - main
+    - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
+  generate:
+    permissions: 
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
     
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      - name: Generate Blood Snake
-        uses: Platane/snk@v3
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: trixxsobased
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff0000&color_dots=#000000,#3d0000,#7a0000,#b80000,#ff0000
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#ff0000&color_dots=#ffcccc,#ff9999,#ff5555,#ff0000,#990000
-      
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/gh-action-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
