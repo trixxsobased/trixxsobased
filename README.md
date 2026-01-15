@@ -8,38 +8,13 @@
 
 [![](https://img.shields.io/badge/HAUNTED-MOUND-ff0000?style=flat-square&labelColor=000000)](https://github.com/trixxsobased)
 
-</div>
-
 <br/>
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Barbed_Wire.svg/2560px-Barbed_Wire.svg.png" width="100%" height="20" style="filter: invert(100%);" alt="barbed wire"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 ```
 status: haunted | learning: C/C++, JS, PHP | vibe: permanently in the woods
 ```
 
-<!-- STATS VERCEL (Lebih Stabil) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=trixxsobased&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&hide_title=true&hide_rank=true&count_private=true" alt="trixx stats" height="130"/>
-</a>
-
-</div>
-
 <br/>
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Barbed_Wire.svg/2560px-Barbed_Wire.svg.png" width="100%" height="20" style="filter: invert(100%);" alt="barbed wire"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 ![](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=ff0000)
 ![](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=ff0000)
@@ -57,17 +32,7 @@ status: haunted | learning: C/C++, JS, PHP | vibe: permanently in the woods
   <img alt="snake" src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
-
 <br/>
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Barbed_Wire.svg/2560px-Barbed_Wire.svg.png" width="100%" height="20" style="filter: invert(100%);" alt="barbed wire"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square)](mailto:mthoriq2076@gmail.com)
 [![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square)](https://discord.com/users/1154771060911247411)
