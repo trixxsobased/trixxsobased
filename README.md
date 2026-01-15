@@ -12,7 +12,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Barbed_Wire.svg/2560px-Barbed_Wire.svg.png" width="100%" height="20" style="filter: invert(100%);" alt="barbed wire"/>
+</div>
 
 <br/>
 
@@ -22,14 +24,18 @@
 status: haunted | learning: C/C++, JS, PHP | vibe: permanently in the woods
 ```
 
-<!-- STATS - Using Streak Stats instead which is often more reliable -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=trixxsobased&theme=blood-dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000" alt="streak" height="150" />
+<!-- STATS VERCEL (Lebih Stabil) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=trixxsobased&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&hide_title=true&hide_rank=true&count_private=true" alt="trixx stats" height="130"/>
+</a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Barbed_Wire.svg/2560px-Barbed_Wire.svg.png" width="100%" height="20" style="filter: invert(100%);" alt="barbed wire"/>
+</div>
 
 <br/>
 
@@ -55,7 +61,9 @@ status: haunted | learning: C/C++, JS, PHP | vibe: permanently in the woods
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Barbed_Wire.svg/2560px-Barbed_Wire.svg.png" width="100%" height="20" style="filter: invert(100%);" alt="barbed wire"/>
+</div>
 
 <br/>
 
