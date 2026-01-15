@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/header.jpg" width="200"/>
+<img src="assets/header.jpg" width="300" alt="header"/>
 
 # `T R I X X S O B A S E D`
 
@@ -10,7 +10,11 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8"/>
+<br/>
+
+<img src="assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+
+<br/>
 
 <div align="center">
 
@@ -19,15 +23,19 @@ status: haunted | learning: C/C++, JS, PHP | vibe: permanently in the woods
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=trixxsobased&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true&border_radius=0&hide_title=true&hide_rank=true" alt="stats" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trixxsobased&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true&border_radius=0&hide_title=true&hide_rank=true" alt="stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixxsobased&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=0&hide_title=true" alt="langs" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixxsobased&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=0&hide_title=true" alt="langs"/>
 </a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8"/>
+<br/>
+
+<img src="assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+
+<br/>
 
 <div align="center">
 
@@ -49,7 +57,11 @@ status: haunted | learning: C/C++, JS, PHP | vibe: permanently in the woods
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trixxsobased/trixxsobased/main/assets/barbed-wire.png" width="100%" height="8"/>
+<br/>
+
+<img src="assets/barbed-wire.png" width="100%" height="8" alt="barbed wire"/>
+
+<br/>
 
 <div align="center">
 
